@@ -10,15 +10,15 @@ It serves as a showcase of my understanding of modern frontend development, comp
 
 ## 🌟 Hero Section
 
-![First Image](/FirstImage1.png)
+![First Image](public/FirstImage1.png)
 
 ## 📸 Product/Gallery Section
 
-![Second Image](/SecondImage2.png)
+![Second Image](public/SecondImage2.png)
 
-## 🎨 Testimonial/Footer Section
+## 📝 Testimonial/Footer Section
 
-![Third Image](/ThreeImage3.png)
+![Third Image](public/ThreeImage3.png)
 
 ---
 
