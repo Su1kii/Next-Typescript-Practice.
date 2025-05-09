@@ -52,3 +52,4 @@ This project was created as part of my personal learning journey into full-stack
 ---
 
 Thanks for checking out this practice project! Feel free to fork it, give feedback, or follow my journey as I build more ambitious apps!
+Link to live demo (NotWorking Currently): https://next-typescript-practice-nine.vercel.app/
