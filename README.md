@@ -8,6 +8,20 @@ This project is a **frontend e-commerce website** built as a practice exercise t
 
 It serves as a showcase of my understanding of modern frontend development, component structuring, and responsive design using the latest React-based stack.
 
+## 🌟 Hero Section
+
+![First Image](/FirstImage1.png)
+
+## 📸 Product/Gallery Section
+
+![Second Image](/SecondImage2.png)
+
+## 🎨 Testimonial/Footer Section
+
+![Third Image](/ThreeImage3.png)
+
+---
+
 ## 🔧 Features
 
 - ⚛️ Built with **Next.js** using the **App Router**
