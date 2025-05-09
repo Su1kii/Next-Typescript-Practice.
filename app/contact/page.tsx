@@ -62,7 +62,7 @@ const Contact = () => {
           <div>
             <h3 className="text-xl font-semibold mb-4">Visit Us</h3>
             <p className="text-gray-600 mb-6">
-              Come by our store and say hello! We're located at:
+              Come by our store and say hello! We&apos;re located at:
             </p>
             <address className="text-gray-600">
               123 Shoe Street,
